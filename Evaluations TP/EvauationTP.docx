@@ -1,0 +1,21 @@
+Evauation TP "EtreVivant"
+
+1) Ecrire la classe EtreVivant
+Un EtreVivant a un nom et un age
+
+2) Ecrire les constructeurs. Un EtreVivant a obligatoirement un nom, et ce nom ne peut pas changer.
+
+3) Ecrire les accesseurs en lecture et en écriture, ainsi que la méthode toString()
+
+4) Ecrire la méthode void seDeplacer()
+
+5) Rajouter une variable de classe qui permet de capturer le nombre d'EtreVivants créés. Ecrire la méthode nbreEtreVivants() qui permet de retourner ce nombre
+
+6) Ecrire les classes Personne et Animal. Personne et Animal sont des êtres vivants.
+Un animal a une caractéristique "queue" qui indique si cet animal a une queue.
+Une personne a un prénom et un lieu de travail.
+
+7) Redéfinissez la méthode seDéplacer pour Personne; elle affiche le message suivant: nom + " " + prenom + "marche"
+
+8) Ecrire la classe TestEtreVivant qui permet de manipuler un tableau de 3 EtreVivants
+Affichez les détails de ces 3 objets
