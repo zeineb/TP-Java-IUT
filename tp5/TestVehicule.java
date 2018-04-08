@@ -11,7 +11,7 @@ public class TestVehicule {
 		}
 		catch(TropViteException e)
 		{
-		//System.out.println (e.printStackTrace());
+		e.printStackTrace();
 		}
 
 	}
